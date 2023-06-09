@@ -2,11 +2,7 @@
 
 ## Description
 
-Popcat is a simple game where users can click on the cat image to increase their score. The game is based on the popular "pop it" trend on the internet.
-
-## Demo
-
-You can see a live demo of this project at [demo link](https://www.example.com).
+Popcat is a simple game where users can click on the cat image to increase their score. The game is based on the popular "pop it" trend on the internet..
 
 ## Installation
 
