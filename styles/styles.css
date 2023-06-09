@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+
+    
+}
+h1{
+    display: inline;
+}
+img{
+
+    width: 100%;
+    height: 100%;
+    
+}
+#popcat {
+    cursor: pointer;
+}
+
+#counter {
+    font-size: 24px;
+    margin-top: 20px;
+}
